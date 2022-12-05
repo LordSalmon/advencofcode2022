@@ -6,12 +6,14 @@ import run3_1 from "./days/3/1";
 import run3_2 from "./days/3/2";
 import run4_1 from "./days/4/1";
 import run4_2 from "./days/4/2";
+import run5_1 from "./days/5/1";
+import run5_2 from "./days/5/2";
 
-const day = 4;
-const part = 2;
+const day = 5;
+const part = 1;
 console.log("Hello via Bun!");
 console.log("Running advend of code 2022!!! <3")
 console.log(`Current day: ${day} and part: ${part}`);
 
 
-console.log(await run4_2());
+console.log(await run5_2());
