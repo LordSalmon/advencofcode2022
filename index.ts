@@ -14,9 +14,9 @@ import run7_1 from "./days/7/1";
 import run7_2 from "./days/7/2";
 
 const day = 7;
-const part = 1;
+const part = 2;
 console.log("Hello via Bun!");
 console.log("Running advend of code 2022!!! <3")
 console.log(`Current day: ${day} and part: ${part}`);
 
-console.log(await run7_1());
+console.log(await run7_2());
